@@ -1,4 +1,8 @@
-# I made a functional SearchBar using JavaScript, JSX, JSON, React, CSS
+# React + Vite
 
-Searchbar its self has filter build in so that you can narrow down your desired result
-Css part was mostly inspired by other searchbar's
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
