@@ -1,0 +1,29 @@
+.filter-bar {
+    background-color: white;
+    width: 42%;
+    border-radius: 10px;
+    height: 2.5rem;
+    padding: 0 15px;
+    box-shadow: 0px 0px 8px #ddd;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; 
+    border: 1px solid;
+    
+  }
+  
+  .filter-bar label {
+    margin-right: 5px; 
+  }
+  
+  .filter-bar select {
+    background-color: transparent;
+    border: none;
+    height: 100%;
+    font-size: 1rem;
+    width: 100%;
+    margin-left: 5px;
+    outline: none; 
+  }
+
+ 
